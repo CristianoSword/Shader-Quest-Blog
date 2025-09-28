@@ -1,7 +1,7 @@
 				@font-face {
 					font-family: 'gb';
-					src: url('/wp-content/uploads/useanyfont/7418GB.woff2') format('woff2'),
-						url('/wp-content/uploads/useanyfont/7418GB.woff') format('woff');
+					src: url('https://cristianosword.github.io/Shader-Quest-Blog/wp-content/uploads/useanyfont/7418GB.woff2') format('woff2'),
+						url('https://cristianosword.github.io/Shader-Quest-Blog/wp-content/uploads/useanyfont/7418GB.woff') format('woff');
 						  font-display: auto;
 				}
 
