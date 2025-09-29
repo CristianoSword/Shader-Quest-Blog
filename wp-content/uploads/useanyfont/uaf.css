@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'gb';
+					src: url('https://shader-quest-blog.pages.dev/wp-content/uploads/useanyfont/7418GB.woff2') format('woff2'),
+						url('https://shader-quest-blog.pages.dev/wp-content/uploads/useanyfont/7418GB.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.gb{font-family: 'gb' !important;}
+
+						h1, body.single-post .entry-title, body.page .entry-title, body.category .entry-title, .site-title, .menu-primary-menu-container li a, .menu-primary-menu-container li span, #menu-primary-menu li a, #menu-primary-menu li span, .menu-top-bar-menu-container li a, .menu-top-bar-menu-container li span, #menu-top-bar-menu li a, #menu-top-bar-menu li span{
+					font-family: 'gb' !important;
+				}
+		
