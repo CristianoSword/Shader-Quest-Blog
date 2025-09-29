@@ -1,5 +1,8 @@
-<br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;LottaFramework\Facades\Facade&quot; not found in C:\xampp\htdocs\GameBlog\wp-content\themes\yuki\lotta-framework\src\Facades\Css.php:20
+<!DOCTYPE html>
+<html><br>
+<b>Fatal error</b>:  Uncaught Error: Class "LottaFramework\Facades\Facade" not found in C:\xampp\htdocs\GameBlog\wp-content\themes\yuki\lotta-framework\src\Facades\Css.php:20
 Stack trace:
 #0 {main}
-  thrown in <b>C:\xampp\htdocs\GameBlog\wp-content\themes\yuki\lotta-framework\src\Facades\Css.php</b> on line <b>20</b><br><!-- Powered by Staatic (https://staatic.com/) -->
+  thrown in <b>C:\xampp\htdocs\GameBlog\wp-content\themes\yuki\lotta-framework\src\Facades\Css.php</b> on line <b>20</b><br>
+</html>
+<!-- Powered by Staatic (https://staatic.com/) -->
