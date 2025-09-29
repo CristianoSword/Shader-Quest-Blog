@@ -1,8 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><br>
+<!DOCTYPE html>
+<html><br>
 <b>Fatal error</b>:  Uncaught Error: Class "LottaFramework\Customizer\Controls\Slider" not found in C:\xampp\htdocs\GameBlog\wp-content\themes\yuki\lotta-framework\src\Customizer\Controls\Number.php:5
 Stack trace:
 #0 {main}
   thrown in <b>C:\xampp\htdocs\GameBlog\wp-content\themes\yuki\lotta-framework\src\Customizer\Controls\Number.php</b> on line <b>5</b><br>
-</body></html>
+</html>
 <!-- Powered by Staatic (https://staatic.com/) -->
