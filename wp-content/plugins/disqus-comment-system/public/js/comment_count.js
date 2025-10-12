@@ -1,4 +1,4 @@
-var disqus_shortname = countVars.disqusShortname;
+var disqus_shortname = 'shaderquest-com';
 (function () {
     var nodes = document.getElementsByTagName('span');
     for (var i = 0, url; i < nodes.length; i++) {
