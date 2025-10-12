@@ -1,0 +1,46 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Container do GTranslate */
+.gtranslate_wrapper {
+      right: 10px !important;            /* Distância da direita */
+    z-index: 999999 !important;        /* Fica acima de tudo */
+    background: #fff;                   /* Fundo branco */
+    padding: 8px 7px;                  /* Espaçamento interno */
+    border-radius: 10px;                /* Cantos arredondados */
+    border: 1px solid #ccc;             /* Borda fina */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2); /* Sombra suave */
+    transition: all 0.3s ease;          /* Animação suave para hover ou mudanças */
+}
+
+/* Dropdown de seleção de idioma */
+.gtranslate_wrapper .gt_selector {
+    font-size: 14px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: 1px solid #aaa;
+    background-color: #f9f9f9;
+    transition: background-color 0.2s ease;
+}
+
+/* Hover do dropdown */
+.gtranslate_wrapper .gt_selector:hover {
+    background-color: #f0f0f0;
+}
+
+/* Ajuste do link "Powered by Google Translate" */
+.gtranslate_wrapper a {
+    text-decoration: none;
+    color: #333;
+    font-size: 12px;
+}
+/* Responsivo: em telas menores que 600px */
+@media screen and (max-width: 600px) {
+
+    .gtranslate_wrapper .gt_selector {
+        padding: 3px 3px;
+        font-size: 13px;
+		 padding-left: 10px;
+    }
+
+</style>
+<!-- end Simple Custom CSS and JS -->
